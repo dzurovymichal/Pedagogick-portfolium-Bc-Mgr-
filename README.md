@@ -1,7 +1,7 @@
 Pedagogické portfolio <br>
-Bakalářské studium
-Michal Dzurový 
-Katedra technické a informační výchovy
-Pedagogická fakulta, UPOL
+Bakalářské studium <br>
+Michal Dzurový <br>
+Katedra technické a informační výchovy <br>
+Pedagogická fakulta, UPOL <br>
 
 __Zde budou vaše vlastní údaje__
