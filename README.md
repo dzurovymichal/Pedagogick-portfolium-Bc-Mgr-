@@ -1,4 +1,4 @@
-Pedagogické portfolio
+Pedagogické portfolio <br>
 Bakalářské studium
 Michal Dzurový 
 Katedra technické a informační výchovy
